@@ -1,0 +1,11 @@
+.App{
+  padding-left: 560px; 
+  padding-top: 50px; 
+  margin-bottom: 100px
+};
+img{
+  padding-top: 50px;
+};
+.btn btn-primary{
+display:inline;
+}
